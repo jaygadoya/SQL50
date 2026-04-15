@@ -6,6 +6,7 @@ This repository contains all the questions which I have solved on LeetCode.
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/jaygadoya/SQL50/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/jaygadoya/SQL50/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/jaygadoya/SQL50/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/jaygadoya/SQL50/tree/master/0620-not-boring-movies) |
