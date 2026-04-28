@@ -7,6 +7,7 @@ This repository contains all the questions which I have solved on LeetCode.
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/jaygadoya/SQL50/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/jaygadoya/SQL50/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/jaygadoya/SQL50/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/jaygadoya/SQL50/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/jaygadoya/SQL50/tree/master/0596-classes-with-at-least-5-students) |
