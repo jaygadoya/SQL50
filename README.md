@@ -16,6 +16,7 @@ This repository contains all the questions which I have solved on LeetCode.
 | [1068-product-sales-analysis-i](https://github.com/jaygadoya/SQL50/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/jaygadoya/SQL50/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/jaygadoya/SQL50/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/jaygadoya/SQL50/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jaygadoya/SQL50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/jaygadoya/SQL50/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/jaygadoya/SQL50/tree/master/1527-patients-with-a-condition) |
