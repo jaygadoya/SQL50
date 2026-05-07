@@ -19,6 +19,7 @@ This repository contains all the questions which I have solved on LeetCode.
 | [1148-article-views-i](https://github.com/jaygadoya/SQL50/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/jaygadoya/SQL50/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/jaygadoya/SQL50/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/jaygadoya/SQL50/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jaygadoya/SQL50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/jaygadoya/SQL50/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/jaygadoya/SQL50/tree/master/1527-patients-with-a-condition) |
