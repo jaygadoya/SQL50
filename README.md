@@ -15,6 +15,7 @@ This repository contains all the questions which I have solved on LeetCode.
 | [0595-big-countries](https://github.com/jaygadoya/SQL50/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/jaygadoya/SQL50/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jaygadoya/SQL50/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0610-triangle-judgement](https://github.com/jaygadoya/SQL50/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/jaygadoya/SQL50/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/jaygadoya/SQL50/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/jaygadoya/SQL50/tree/master/1075-project-employees-i) |
